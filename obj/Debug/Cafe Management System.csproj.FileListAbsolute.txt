@@ -1,0 +1,197 @@
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe.config
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.pdb
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.AssemblyReference.cache
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Form1.resources
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Properties.Resources.resources
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.GenerateResource.cache
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.CoreCompileInputs.cache
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.exe
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.pdb
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Dashboard.resources
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\bin\Debug\Google.Protobuf.dll
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\bin\Debug\MySql.Data.dll
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\bin\Debug\System.Buffers.dll
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\bin\Debug\System.Memory.dll
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\bin\Debug\Zstandard.Net.dll
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\bin\Debug\Google.Protobuf.pdb
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\bin\Debug\Google.Protobuf.xml
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\bin\Debug\MySql.Data.xml
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\bin\Debug\System.Buffers.xml
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\bin\Debug\System.Memory.xml
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.CopyComplete
+C:\Users\Rafi\Documents\Cafe Management System\bin\Debug\Cafe Management System.exe.config
+C:\Users\Rafi\Documents\Cafe Management System\bin\Debug\Cafe Management System.exe
+C:\Users\Rafi\Documents\Cafe Management System\bin\Debug\Cafe Management System.pdb
+C:\Users\Rafi\Documents\Cafe Management System\bin\Debug\System.Buffers.dll
+C:\Users\Rafi\Documents\Cafe Management System\bin\Debug\System.Memory.dll
+C:\Users\Rafi\Documents\Cafe Management System\bin\Debug\Google.Protobuf.pdb
+C:\Users\Rafi\Documents\Cafe Management System\bin\Debug\Google.Protobuf.xml
+C:\Users\Rafi\Documents\Cafe Management System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Rafi\Documents\Cafe Management System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Rafi\Documents\Cafe Management System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Rafi\Documents\Cafe Management System\bin\Debug\MySql.Data.xml
+C:\Users\Rafi\Documents\Cafe Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Rafi\Documents\Cafe Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rafi\Documents\Cafe Management System\obj\Debug\Cafe Management System.csproj.AssemblyReference.cache
+C:\Users\Rafi\Documents\Cafe Management System\obj\Debug\Cafe_Management_System.AddItem.resources
+C:\Users\Rafi\Documents\Cafe Management System\obj\Debug\Cafe_Management_System.Dashboard.resources
+C:\Users\Rafi\Documents\Cafe Management System\obj\Debug\Cafe_Management_System.Form1.resources
+C:\Users\Rafi\Documents\Cafe Management System\obj\Debug\Cafe_Management_System.Properties.Resources.resources
+C:\Users\Rafi\Documents\Cafe Management System\obj\Debug\Cafe Management System.csproj.GenerateResource.cache
+C:\Users\Rafi\Documents\Cafe Management System\obj\Debug\Cafe Management System.csproj.CoreCompileInputs.cache
+C:\Users\Rafi\Documents\Cafe Management System\obj\Debug\Cafe Management System.csproj.CopyComplete
+C:\Users\Rafi\Documents\Cafe Management System\obj\Debug\Cafe Management System.exe
+C:\Users\Rafi\Documents\Cafe Management System\obj\Debug\Cafe Management System.pdb
+C:\Users\Rafi\Documents\Cafe Management System\obj\Debug\Cafe_Management_System.Employe.resources
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Employe.resources
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.All_Item.resources
+C:\Users\Rafi\Downloads\Cafe Management System-20211101T150628Z-001\Cafe Management System\bin\Debug\Cafe Management System.exe.config
+C:\Users\Rafi\Downloads\Cafe Management System-20211101T150628Z-001\Cafe Management System\bin\Debug\Cafe Management System.exe
+C:\Users\Rafi\Downloads\Cafe Management System-20211101T150628Z-001\Cafe Management System\bin\Debug\Cafe Management System.pdb
+C:\Users\Rafi\Downloads\Cafe Management System-20211101T150628Z-001\Cafe Management System\bin\Debug\System.Buffers.dll
+C:\Users\Rafi\Downloads\Cafe Management System-20211101T150628Z-001\Cafe Management System\bin\Debug\System.Memory.dll
+C:\Users\Rafi\Downloads\Cafe Management System-20211101T150628Z-001\Cafe Management System\bin\Debug\Google.Protobuf.pdb
+C:\Users\Rafi\Downloads\Cafe Management System-20211101T150628Z-001\Cafe Management System\bin\Debug\Google.Protobuf.xml
+C:\Users\Rafi\Downloads\Cafe Management System-20211101T150628Z-001\Cafe Management System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Rafi\Downloads\Cafe Management System-20211101T150628Z-001\Cafe Management System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Rafi\Downloads\Cafe Management System-20211101T150628Z-001\Cafe Management System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Rafi\Downloads\Cafe Management System-20211101T150628Z-001\Cafe Management System\bin\Debug\MySql.Data.xml
+C:\Users\Rafi\Downloads\Cafe Management System-20211101T150628Z-001\Cafe Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Rafi\Downloads\Cafe Management System-20211101T150628Z-001\Cafe Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rafi\Downloads\Cafe Management System-20211101T150628Z-001\Cafe Management System\obj\Debug\Cafe Management System.csproj.AssemblyReference.cache
+C:\Users\Rafi\Downloads\Cafe Management System-20211101T150628Z-001\Cafe Management System\obj\Debug\Cafe_Management_System.AddItem.resources
+C:\Users\Rafi\Downloads\Cafe Management System-20211101T150628Z-001\Cafe Management System\obj\Debug\Cafe_Management_System.All_Item.resources
+C:\Users\Rafi\Downloads\Cafe Management System-20211101T150628Z-001\Cafe Management System\obj\Debug\Cafe_Management_System.Dashboard.resources
+C:\Users\Rafi\Downloads\Cafe Management System-20211101T150628Z-001\Cafe Management System\obj\Debug\Cafe_Management_System.Employe.resources
+C:\Users\Rafi\Downloads\Cafe Management System-20211101T150628Z-001\Cafe Management System\obj\Debug\Cafe_Management_System.Form1.resources
+C:\Users\Rafi\Downloads\Cafe Management System-20211101T150628Z-001\Cafe Management System\obj\Debug\Cafe_Management_System.Properties.Resources.resources
+C:\Users\Rafi\Downloads\Cafe Management System-20211101T150628Z-001\Cafe Management System\obj\Debug\Cafe Management System.csproj.GenerateResource.cache
+C:\Users\Rafi\Downloads\Cafe Management System-20211101T150628Z-001\Cafe Management System\obj\Debug\Cafe Management System.csproj.CoreCompileInputs.cache
+C:\Users\Rafi\Downloads\Cafe Management System-20211101T150628Z-001\Cafe Management System\obj\Debug\Cafe Management System.csproj.CopyComplete
+C:\Users\Rafi\Downloads\Cafe Management System-20211101T150628Z-001\Cafe Management System\obj\Debug\Cafe Management System.exe
+C:\Users\Rafi\Downloads\Cafe Management System-20211101T150628Z-001\Cafe Management System\obj\Debug\Cafe Management System.pdb
+C:\Users\Rafi\Downloads\Cafe Management System-20211101T150628Z-001\Cafe Management System\obj\Debug\Cafe_Management_System.Search.resources
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Search.resources
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Chef.resources
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Add_Item.resources
+C:\Users\Rafi\Downloads\Cafe Management System-20211108T142653Z-001\Cafe Management System\bin\Debug\Cafe Management System.exe.config
+C:\Users\Rafi\Downloads\Cafe Management System-20211108T142653Z-001\Cafe Management System\bin\Debug\Cafe Management System.exe
+C:\Users\Rafi\Downloads\Cafe Management System-20211108T142653Z-001\Cafe Management System\bin\Debug\Cafe Management System.pdb
+C:\Users\Rafi\Downloads\Cafe Management System-20211108T142653Z-001\Cafe Management System\bin\Debug\System.Buffers.dll
+C:\Users\Rafi\Downloads\Cafe Management System-20211108T142653Z-001\Cafe Management System\bin\Debug\System.Memory.dll
+C:\Users\Rafi\Downloads\Cafe Management System-20211108T142653Z-001\Cafe Management System\bin\Debug\Google.Protobuf.pdb
+C:\Users\Rafi\Downloads\Cafe Management System-20211108T142653Z-001\Cafe Management System\bin\Debug\Google.Protobuf.xml
+C:\Users\Rafi\Downloads\Cafe Management System-20211108T142653Z-001\Cafe Management System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Rafi\Downloads\Cafe Management System-20211108T142653Z-001\Cafe Management System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Rafi\Downloads\Cafe Management System-20211108T142653Z-001\Cafe Management System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Rafi\Downloads\Cafe Management System-20211108T142653Z-001\Cafe Management System\bin\Debug\MySql.Data.xml
+C:\Users\Rafi\Downloads\Cafe Management System-20211108T142653Z-001\Cafe Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Rafi\Downloads\Cafe Management System-20211108T142653Z-001\Cafe Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rafi\Downloads\Cafe Management System-20211108T142653Z-001\Cafe Management System\obj\Debug\Cafe Management System.csproj.AssemblyReference.cache
+C:\Users\Rafi\Downloads\Cafe Management System-20211108T142653Z-001\Cafe Management System\obj\Debug\Cafe_Management_System.Add_Item.resources
+C:\Users\Rafi\Downloads\Cafe Management System-20211108T142653Z-001\Cafe Management System\obj\Debug\Cafe_Management_System.All_Item.resources
+C:\Users\Rafi\Downloads\Cafe Management System-20211108T142653Z-001\Cafe Management System\obj\Debug\Cafe_Management_System.Chef.resources
+C:\Users\Rafi\Downloads\Cafe Management System-20211108T142653Z-001\Cafe Management System\obj\Debug\Cafe_Management_System.Dashboard.resources
+C:\Users\Rafi\Downloads\Cafe Management System-20211108T142653Z-001\Cafe Management System\obj\Debug\Cafe_Management_System.Employe.resources
+C:\Users\Rafi\Downloads\Cafe Management System-20211108T142653Z-001\Cafe Management System\obj\Debug\Cafe_Management_System.Form1.resources
+C:\Users\Rafi\Downloads\Cafe Management System-20211108T142653Z-001\Cafe Management System\obj\Debug\Cafe_Management_System.Properties.Resources.resources
+C:\Users\Rafi\Downloads\Cafe Management System-20211108T142653Z-001\Cafe Management System\obj\Debug\Cafe_Management_System.Search.resources
+C:\Users\Rafi\Downloads\Cafe Management System-20211108T142653Z-001\Cafe Management System\obj\Debug\Cafe Management System.csproj.GenerateResource.cache
+C:\Users\Rafi\Downloads\Cafe Management System-20211108T142653Z-001\Cafe Management System\obj\Debug\Cafe Management System.csproj.CoreCompileInputs.cache
+C:\Users\Rafi\Downloads\Cafe Management System-20211108T142653Z-001\Cafe Management System\obj\Debug\Cafe Management System.csproj.CopyComplete
+C:\Users\Rafi\Downloads\Cafe Management System-20211108T142653Z-001\Cafe Management System\obj\Debug\Cafe Management System.exe
+C:\Users\Rafi\Downloads\Cafe Management System-20211108T142653Z-001\Cafe Management System\obj\Debug\Cafe Management System.pdb
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Order.resources
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Payment.resources
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Cutomer.resources
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\bin\Debug\PagedList.dll
+C:\Users\best brand bd\source\repos\Cafe Management System\Cafe Management System\bin\Debug\PagedList.xml
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\bin\Debug\Cafe Management System.exe.config
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\bin\Debug\Cafe Management System.exe
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\bin\Debug\Cafe Management System.pdb
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\bin\Debug\PagedList.dll
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\bin\Debug\System.Buffers.dll
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\bin\Debug\System.Memory.dll
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\bin\Debug\Google.Protobuf.pdb
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\bin\Debug\Google.Protobuf.xml
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\bin\Debug\MySql.Data.xml
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\bin\Debug\PagedList.xml
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\obj\Debug\Cafe Management System.csproj.AssemblyReference.cache
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\obj\Debug\Cafe_Management_System.Add_Item.resources
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\obj\Debug\Cafe_Management_System.All_Item.resources
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\obj\Debug\Cafe_Management_System.Chef.resources
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\obj\Debug\Cafe_Management_System.Cutomer.resources
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\obj\Debug\Cafe_Management_System.Dashboard.resources
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\obj\Debug\Cafe_Management_System.Employe.resources
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\obj\Debug\Cafe_Management_System.Form1.resources
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\obj\Debug\Cafe_Management_System.Order.resources
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\obj\Debug\Cafe_Management_System.Payment.resources
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\obj\Debug\Cafe_Management_System.Properties.Resources.resources
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\obj\Debug\Cafe_Management_System.Search.resources
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\obj\Debug\Cafe Management System.csproj.GenerateResource.cache
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\obj\Debug\Cafe Management System.csproj.CoreCompileInputs.cache
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\obj\Debug\Cafe Management System.csproj.CopyComplete
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\obj\Debug\Cafe Management System.exe
+C:\Users\Rafi\Downloads\Cafe Management System-20211121T144253Z-001\Cafe Management System\obj\Debug\Cafe Management System.pdb
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\bin\Debug\Cafe Management System.exe.config
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\bin\Debug\Cafe Management System.exe
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\bin\Debug\Cafe Management System.pdb
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\bin\Debug\PagedList.dll
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\bin\Debug\System.Buffers.dll
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\bin\Debug\System.Memory.dll
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\bin\Debug\Google.Protobuf.pdb
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\bin\Debug\Google.Protobuf.xml
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\bin\Debug\MySql.Data.xml
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\bin\Debug\PagedList.xml
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\obj\Debug\Cafe Management System.csproj.AssemblyReference.cache
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\obj\Debug\Cafe_Management_System.Add_Item.resources
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\obj\Debug\Cafe_Management_System.All_Item.resources
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\obj\Debug\Cafe_Management_System.Chef.resources
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\obj\Debug\Cafe_Management_System.Cutomer.resources
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\obj\Debug\Cafe_Management_System.Dashboard.resources
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\obj\Debug\Cafe_Management_System.Employe.resources
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\obj\Debug\Cafe_Management_System.Form1.resources
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\obj\Debug\Cafe_Management_System.Order.resources
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\obj\Debug\Cafe_Management_System.Payment.resources
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\obj\Debug\Cafe_Management_System.Properties.Resources.resources
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\obj\Debug\Cafe_Management_System.Search.resources
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\obj\Debug\Cafe Management System.csproj.GenerateResource.cache
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\obj\Debug\Cafe Management System.csproj.CoreCompileInputs.cache
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\obj\Debug\Cafe Management System.csproj.CopyComplete
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\obj\Debug\Cafe Management System.exe
+C:\Users\best brand bd\Downloads\Cafe Management System (1)\Cafe Management System\obj\Debug\Cafe Management System.pdb
